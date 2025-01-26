@@ -1,0 +1,1448 @@
+{
+    "data": [
+        {
+            "apk": "SurfersMod_v9.7.0",
+            "category": "games",
+            "img": "img/SubwaySurfers.png",
+            "title": "Subway Surfers MOD"
+        },
+        {
+            "apk": "MediaboxHD_v3.7",
+            "img": "img/MediaboxHD.png",
+            "title": "Mediabox HD"
+        },
+        {
+            "apk": "TutuAppVIP_v1.4.8a",
+            "img": "img/TutuAppVIP.png",
+            "title": "TutuApp VIP"
+        },
+        {
+            "apk": "Tocaworld",
+            "category": "games",
+            "img": "img/TocaLife.png",
+            "title": "Toca World++"
+        },
+        {
+            "apk": "GeForce Now_v1.4.8a",
+            "img": "img/GeForceNow.png",
+            "title": "GeForce Now"
+        },
+        {
+            "apk": "PandaHelperVIP_v7.7.5a",
+            "category": "util",
+            "img": "img/PandaHelperVIP.png",
+            "title": "Panda Helper VIP"
+        },
+        {
+            "apk": "Vanced_v7.7.5a",
+            "category": "util",
+            "img": "img/YouTubeVanced.png",
+            "title": "YouTube Vanced"
+        },
+        {
+            "apk": "CarBridge",
+            "category": "util",
+            "img": "img/CarBridge.png",
+            "title": "CarBridge"
+        },
+        {
+            "apk": "BatteryDoc",
+            "category": "util",
+            "img": "img/BatteryDoc.png",
+            "title": "BatteryDoc"
+        },
+        {
+            "apk": "LuckyPatcher_v9.9",
+            "category": "emulat",
+            "img": "img/LuckyPatcher.png",
+            "title": "Lucky Patcher"
+        },
+        {
+            "apk": "GTA5_v9.8",
+            "category": "games",
+            "img": "img/GTA5.png",
+            "title": "GTA 5"
+        },
+        {
+            "apk": "Ageorigins_v9.8",
+            "category": "games",
+            "img": "img/ageoforigins.jpg",
+            "title": "Age of origins++"
+        },
+        {
+            "apk": "AirlineCommander_v9.8",
+            "category": "games",
+            "img": "img/airlinecommander.png",
+            "title": "Airline Commander++"
+        },
+        {
+            "apk": "Highrise_v9.8",
+            "category": "games",
+            "img": "img/Highrise.png",
+            "title": "Highrise++"
+        },
+        {
+            "apk": "Legacy_of_Discord_v6.2",
+            "category": "games",
+            "img": "img/Legacy of Discord.png",
+            "title": "Legacy of Discord++"
+        },
+        {
+            "apk": "Love_Nikki_Dress_Up_Queen_v9",
+            "category": "games",
+            "img": "img/Love Nikki Dress Up Queen.png",
+            "title": "LoveNikki++"
+        },
+        {
+            "apk": "BlockmanGO_v9.8",
+            "category": "games",
+            "img": "img/blockmango.png",
+            "title": "Blockman GO++"
+        },
+        {
+            "apk": "Project_Makeover_v9.8",
+            "category": "games",
+            "img": "img/Project Makeover.jpg",
+            "title": "Project Makeover++"
+        },
+        {
+            "apk": "Bloons_TD_6_v9.8",
+            "category": "games",
+            "img": "img/Bloons TD 6.jpg",
+            "title": "Bloons TD 6"
+        },
+        {
+            "apk": "Bloons_TD_5_v5.7",
+            "category": "games",
+            "img": "img/Bloons TD 5.png",
+            "title": "Bloons TD 5"
+        },
+        {
+            "apk": "FarmVille_2_v3.2",
+            "category": "games",
+            "img": "img/FarmVille 2.png",
+            "title": "FarmVille 2++"
+        },
+        {
+            "apk": "F1_Mobile_Racing_2_v6.1",
+            "category": "games",
+            "img": "img/F1 Mobile Racing.png",
+            "title": "F1 Mobile Racing++"
+        },
+        {
+            "apk": "Archero_v9.4",
+            "category": "games",
+            "img": "img/Archero.png",
+            "title": "Archero++"
+        },
+        {
+            "apk": "Tank_Stars_v6.7",
+            "category": "games",
+            "img": "img/Tank Stars.png",
+            "title": "Tank Stars++"
+        },
+        {
+            "apk": "Tank_Stars_modmenu_v9.5",
+            "category": "games",
+            "img": "img/Tank Stars.png",
+            "title": "Tank Stars MOD MENU"
+        },
+        {
+            "apk": "Soul_Knight_modmenu_v6.5",
+            "category": "games",
+            "img": "img/soul knight.jpg",
+            "title": "Soul Knight MOD MENU"
+        },
+        {
+            "apk": "War_Robots_modmenu_v6.5",
+            "category": "games",
+            "img": "img/War Robots.jpg",
+            "title": "War Robots MOD MENU"
+        },
+        {
+            "apk": "Survivor!.io_v9.4",
+            "category": "games",
+            "img": "img/Survivor.jpg",
+            "title": "Survivor!.io++"
+        },
+        {
+            "apk": "LastDayonEarth_v9.4",
+            "category": "games",
+            "img": "img/last day on earth.jpg",
+            "title": "Last Day on Earth++"
+        },
+        {
+            "apk": "CarXDriftRacing2_v9.4",
+            "category": "games",
+            "img": "img/carx drift racing 2.png",
+            "title": "CarX Drift Racing 2++"
+        },
+        {
+            "apk": "StickWarLegacy_v6.8",
+            "category": "games",
+            "img": "img/Stick War Legacy.png",
+            "title": "Stick War Legacy++"
+        },
+        {
+            "apk": "RealCricket24_v9.5",
+            "category": "games",
+            "img": "img/real cricket 24 logo.png",
+            "title": "Real Cricket 24++"
+        },
+        {
+            "apk": "The_Sims_Mobile_v7.3",
+            "category": "games",
+            "img": "img/The Sims Mobile.png",
+            "title": "The Sims Mobile++"
+        },
+        {
+            "apk": "Hill_Climb_Racing_2_v9.7",
+            "category": "games",
+            "img": "img/Hill Climb Racing 2.png",
+            "title": "Hill Climb Racing 2++"
+        },
+        {
+            "apk": "Mad_Skills_Motocross_3_v7.4",
+            "category": "games",
+            "img": "img/Mad Skills Motocross 3.png",
+            "title": "Mad Skills Motocross 3++"
+        },
+        {
+            "apk": "BOWMASTERS_v9.1",
+            "category": "games",
+            "img": "img/BOWMASTERS.png",
+            "title": "BOWMASTERS++"
+        },
+        {
+            "apk": "Idle_Miner_v6.8",
+            "category": "games",
+            "img": "img/Idle Miner.png",
+            "title": "Idle Miner++"
+        },
+        {
+            "apk": "Hill_Climb_Racing_v8.4",
+            "category": "games",
+            "img": "img/Hill Climb Racing.png",
+            "title": "Hill Climb Racing++"
+        },
+        {
+            "apk": "Forge_of_Empires_v9.7",
+            "category": "games",
+            "img": "img/Forge of Empires.png",
+            "title": "Forge of Empires++"
+        },
+        {
+            "apk": "Fallout_Shelter_v5.8",
+            "category": "games",
+            "img": "img/Fallout Shelter.png",
+            "title": "Fallout Shelter++"
+        },
+        {
+            "apk": "Azur_Lane_v7.5",
+            "category": "games",
+            "img": "img/Azur Lane.png",
+            "title": "Azur Lane++"
+        },
+        {
+            "apk": "Gardenscapes_v9.1",
+            "category": "games",
+            "img": "img/gardenscapes.png",
+            "title": "Gardenscapes++"
+        },
+        {
+            "apk": "Azur_Lane_v7.5",
+            "category": "games",
+            "img": "img/homescapes.png",
+            "title": "Homescapes++"
+        },
+        {
+            "apk": "Ace_Fishing_v7.5",
+            "category": "games",
+            "img": "img/acefishing.png",
+            "title": "Ace Fishing++"
+        },
+        {
+            "apk": "Airplane_Chefs_v9.2",
+            "category": "games",
+            "img": "img/Airplane Chefs.jpg",
+            "title": "Airplane Chefs++"
+        },
+        {
+            "apk": "Golf_Clash_v6.9",
+            "category": "games",
+            "img": "img/Golf Clash.jpg",
+            "title": "Golf Clash++"
+        },
+        {
+            "apk": "Hempire_v8.3",
+            "category": "games",
+            "img": "img/hempire.jpg",
+            "title": "Hempire++"
+        },
+        {
+            "apk": "Hero_Hunters_v6.7",
+            "category": "games",
+            "img": "img/hero hunters.jpg",
+            "title": "Hero Hunters++"
+        },
+        {
+            "apk": "Avakin_Life_v9.5",
+            "category": "games",
+            "img": "img/Avakin Life.jpg",
+            "title": "Avakin Life++"
+        },
+        {
+            "apk": "NBA_Live_Mobile_v6.8",
+            "category": "games",
+            "img": "img/NBA LIVE.png",
+            "title": "NBA Live Mobile++"
+        },
+        {
+            "apk": "Mafia_City_v3.2",
+            "category": "games",
+            "img": "img/mafiacity.png",
+            "title": "Mafia City++"
+        },
+        {
+            "apk": "MeChat_v6.8",
+            "category": "games",
+            "img": "img/mechat.png",
+            "title": "MeChat++"
+        },
+        {
+            "apk": "BBR_v5.7",
+            "category": "games",
+            "img": "img/bbracing2.png",
+            "title": "Beach Buggy Racing 2++"
+        },
+        {
+            "apk": "Bitlife_v6.2",
+            "category": "games",
+            "img": "img/bitlife.png",
+            "title": "Bitlife++"
+        },
+        {
+            "apk": "MovieboxPro_v7.1.8",
+            "img": "img/MovieboxPro.png",
+            "title": "Moviebox Pro"
+        },
+        {
+            "apk": "xbox_v7.1.8",
+            "img": "img/xbox.png",
+            "title": "Xbox++"
+        },
+        {
+            "apk": "Whatsapp_v7.1.8",
+            "img": "img/whatsapp.png",
+            "title": "Whatsapp++"
+        },
+        {
+            "apk": "PSN_v7.1.8",
+            "img": "img/psn.png",
+            "title": "PSN++"
+        },
+        {
+            "apk": "Omegle_v7.1.8",
+            "img": "img/omegle.png",
+            "title": "Omegle++"
+        },
+        {
+            "apk": "carfax_v7.1.8",
+            "img": "img/carfax.png",
+            "title": "CarFax++"
+        },
+        {
+            "apk": "Brazzers_v7.1.8",
+            "img": "img/brazzers.jpg",
+            "title": "Brazzers++"
+        },
+        {
+            "apk": "Gmail_v5.6.1",
+            "img": "img/gmail.png",
+            "title": "Gmail++"
+        },
+        {
+            "apk": "Twitter_v5.6.1",
+            "img": "img/twitter.png",
+            "title": "Twitter++"
+        },
+        {
+            "apk": "Showbox_v3.4.6",
+            "img": "img/Showbox.png",
+            "title": "Showbox"
+        },
+        {
+            "apk": "Tweakbox_v7.5b",
+            "category": "tweaks",
+            "img": "img/Tweakbox.png",
+            "title": "Tweakbox ++"
+        },
+        {
+            "apk": "PokemonGO_v3.1",
+            "category": "games",
+            "img": "img/PokemonGO.png",
+            "title": "Pokemon GO++"
+        },
+        {
+            "apk": "MegaboxHD_v1.5.4b",
+            "img": "img/MegaboxHD.png",
+            "title": "Megabox HD"
+        },
+        {
+            "apk": "PopcornTime_v4.1.7",
+            "img": "img/PopcornTime.png",
+            "title": "Popcorn Time"
+        },
+        {
+            "apk": "Tinder_v5.5.9",
+            "img": "img/Tinder.png",
+            "title": "Tinder++"
+        },
+        {
+            "apk": "Minecraft_v1.6a",
+            "category": "games",
+            "img": "img/mminecraft.png",
+            "title": "Minecraft++"
+        },
+        {
+            "apk": "OnlyFans_v6.3a",
+            "img": "img/OnlyFans.png",
+            "title": "OnlyFans++"
+        },
+        {
+            "apk": "TikTok_v8.8",
+            "img": "img/TikTok.png",
+            "title": "TikTok++"
+        },
+        {
+            "apk": "Smule_v8.8",
+            "img": "img/smule.png",
+            "title": "Smule++"
+        },
+        {
+            "apk": "Toomics_v1.7",
+            "img": "img/toomics.png",
+            "title": "Toomics++"
+        },
+        {
+            "apk": "Poppo_live_v5.9",
+            "img": "img/poppo live.png",
+            "title": "Poppo Live++"
+        },
+        {
+            "apk": "Litmatch_v9.1",
+            "img": "img/litmatch.png",
+            "title": "Litmatch++"
+        },
+        {
+            "apk": "Stripchat_v9.1",
+            "img": "img/stripp.jpg",
+            "title": "Stripchat++"
+        },
+        {
+            "apk": "xHamster_v9.1",
+            "img": "img/xhamsterlogo.png",
+            "title": "xHamster++"
+        },
+        {
+            "apk": "Tango_v9.1",
+            "img": "img/tangoapplogo.png",
+            "title": "Tango++"
+        },
+        {
+            "apk": "Baseball_9_v9.1",
+            "img": "img/baseball9applogo.png",
+            "title": "Baseball 9++"
+        },
+        {
+            "apk": "Monopoly_GO_v9.1",
+            "img": "img/monopolly goapplogo.png",
+            "title": "Monopoly GO++"
+        },
+        {
+            "apk": "Steam_v9.1",
+            "img": "img/steam.png",
+            "title": "Steam++"
+        },
+        {
+            "apk": "CarPlay_v9.1",
+            "img": "img/carplay.png",
+            "title": "CarPlay++"
+        },
+        {
+            "apk": "Chamet_v3.8",
+            "img": "img/chamet.png",
+            "title": "Chamet++"
+        },
+        {
+            "apk": "Deezer_v1.7",
+            "img": "img/Deezer.png",
+            "title": "Deezer++"
+        },
+        {
+            "apk": "CoinMaster_v6.8",
+            "category": "games",
+            "img": "img/CoinMaster.png",
+            "title": "Coin Master++"
+        },
+        {
+            "apk": "FNAFSC_v6.8",
+            "category": "games",
+            "img": "img/SecurityBreach.png",
+            "title": "FNAF: Security Breach"
+        },
+        {
+            "apk": "PokemonLegendsArceus_v6.8",
+            "category": "games",
+            "img": "img/PokemonArceus.png",
+            "title": "Pokemon Legends Arceus"
+        },
+        {
+            "apk": "Videostar_v3.5.0",
+            "img": "img/Videostar.png",
+            "title": "Videostar++"
+        },
+        {
+            "apk": "HappyMod_v5.7.5b",
+            "category": "emulat",
+            "img": "img/HappyMod.png",
+            "title": "HappyMod++"
+        },
+        {
+            "apk": "Chegg_v9.6",
+            "img": "img/Chegg.png",
+            "title": "Chegg++"
+        },
+        {
+            "apk": "Snapchat_v1.0.1",
+            "img": "img/Snapchat.png",
+            "title": "Snapchat++"
+        },
+        {
+            "apk": "Discord_v9.0.1b",
+            "img": "img/Discord.png",
+            "title": "Discord++"
+        },
+        {
+            "apk": "CashApp_v7.1a",
+            "category": "tweaks",
+            "img": "img/CashApp.png",
+            "title": "Cash App++"
+        },
+        {
+            "apk": "Youtube_v8.2.2",
+            "img": "img/Youtube.png",
+            "title": "Youtube++"
+        },
+        {
+            "apk": "Instagram_v1.9",
+            "img": "img/Instagram.png",
+            "title": "Instagram++"
+        },
+        {
+            "apk": "Crunchyroll_v7.2",
+            "img": "img/Crunchyroll.png",
+            "title": "Crunchyroll++"
+        },
+        {
+            "apk": "IMVU_v5.2",
+            "category": "games",
+            "img": "img/IMVU.png",
+            "title": "IMVU++"
+        },
+        {
+            "apk": "Top Eleven_v8.2",
+            "category": "games",
+            "img": "img/topeleven.jpg",
+            "title": "Top Eleven++"
+        },
+        {
+            "apk": "Stumble_Guys_v4.1",
+            "category": "games",
+            "img": "img/stumbleguys.png",
+            "title": "Stumble Guys++"
+        },
+        {
+            "apk": "Stumble_Guys_modmenu_v8.6",
+            "category": "games",
+            "img": "img/stumbleguys.png",
+            "title": "Stumble Guys MOD MENU"
+        },
+        {
+            "apk": "Candy_Crush_Saga_v9.6",
+            "category": "games",
+            "img": "img/candycrushsaga.png",
+            "title": "Candy Crush Saga++"
+        },
+        {
+            "apk": "Cash_Frenzy_v6.8",
+            "category": "games",
+            "img": "img/Cash Frenzy.png",
+            "title": "Cash Frenzy++"
+        },
+        {
+            "apk": "Chapters_v9.1",
+            "category": "games",
+            "img": "img/Chapters.jpg",
+            "title": "Chapters++"
+        },
+        {
+            "apk": "Cooking_Diary_v7.6",
+            "category": "games",
+            "img": "img/cooking diarylogo.png",
+            "title": "Cooking Diary++"
+        },
+        {
+            "apk": "Covet_Fashion_v9.4",
+            "category": "games",
+            "img": "img/Covet Fashionlogo.png",
+            "title": "Covet Fashion++"
+        },
+        {
+            "apk": "Drift_Max_Pro_v3.4",
+            "category": "games",
+            "img": "img/Drift Max Pro logo.png",
+            "title": "Drift Max Pro++"
+        },
+        {
+            "apk": "Dragon_City_v9.7",
+            "category": "games",
+            "img": "img/dragon city logo.png",
+            "title": "Dragon City++"
+        },
+        {
+            "apk": "Hay_Day_v1.8",
+            "category": "games",
+            "img": "img/hayday.png",
+            "title": "Hay Day++"
+        },
+        {
+            "apk": "Zoo_2_animal_park_v9.6",
+            "category": "games",
+            "img": "img/zoo2animalpark.png",
+            "title": "Zoo 2 Animal Park++"
+        },
+        {
+            "apk": "Zooba_v8.7",
+            "category": "games",
+            "img": "img/zooba.png",
+            "title": "Zooba++"
+        },
+        {
+            "apk": "FARMVILLE_3_v8.4",
+            "category": "games",
+            "img": "img/farmville3.png",
+            "title": "FARMVILLE 3++"
+        },
+        {
+            "apk": "Rise_of_Kingdoms_v7.1",
+            "category": "games",
+            "img": "img/riseofkingdoms.png",
+            "title": "Rise of Kingdoms++"
+        },
+        {
+            "apk": "PK_XD_v9.6",
+            "category": "games",
+            "img": "img/pkxd.png",
+            "title": "PK XD++"
+        },
+        {
+            "apk": "Zynga_Poker_v5.7",
+            "category": "games",
+            "img": "img/zyngapoker.png",
+            "title": "Zynga Poker++"
+        },
+        {
+            "apk": "Fishdom_v5.2",
+            "category": "games",
+            "img": "img/fishdom.png",
+            "title": "Fishdom++"
+        },
+        {
+            "apk": "Tumile_v5.2",
+            "category": "games",
+            "img": "img/tumile.png",
+            "title": "Tumile++"
+        },
+        {
+            "apk": "UNO_v9.4",
+            "category": "games",
+            "img": "img/uno.png",
+            "title": "UNO++"
+        },
+        {
+            "apk": "Call_of_Duty_v9.4",
+            "category": "games",
+            "img": "img/Call of Duty.png",
+            "title": "Call of Duty++"
+        },
+        {
+            "apk": "Dice_Dreams_v9.4",
+            "category": "games",
+            "img": "img/Dice Dreams.jpg",
+            "title": "Dice Dreams++"
+        },
+        {
+            "apk": "Hoop_v9.4",
+            "category": "games",
+            "img": "img/Hoop.png",
+            "title": "Hoop++"
+        },
+        {
+            "apk": "Yu-Gi-Oh!_DL_v8.1",
+            "category": "games",
+            "img": "img/yugioh.jpg",
+            "title": "Yu-Gi-Oh! Duel Links++"
+        },
+        {
+            "apk": "Ludo_King_v8.1",
+            "category": "games",
+            "img": "img/ludo king.png",
+            "title": "Ludo King++"
+        },
+        {
+            "apk": "Merge_Dragons_v5.6",
+            "category": "games",
+            "img": "img/merge dragons.png",
+            "title": "Merge Dragons++"
+        },
+        {
+            "apk": "Toon_Blast_v9.4",
+            "category": "games",
+            "img": "img/toon balst.png",
+            "title": "Toon Blast++"
+        },
+        {
+            "apk": "Yalla_Ludo_v1.8",
+            "category": "games",
+            "img": "img/yalla ludo.png",
+            "title": "Yalla Ludo++"
+        },
+        {
+            "apk": "Yalla_Parchis_v2.4",
+            "category": "games",
+            "img": "img/yalla parchis.png",
+            "title": "Yalla Parchis++"
+        },
+        {
+            "apk": "ZEPETO_v2.7",
+            "category": "games",
+            "img": "img/zepeto.png",
+            "title": "ZEPETO++"
+        },
+        {
+            "apk": "BlockStarPlanet_v5.2",
+            "category": "games",
+            "img": "img/blockstarplanet.jpg",
+            "title": "BlockStarPlanet++"
+        },
+        {
+            "apk": "CarXRally_v5.2",
+            "category": "games",
+            "img": "img/CarX Rally.png",
+            "title": "CarX Rally++"
+        },
+        {
+            "apk": "Evony_v5.2",
+            "category": "games",
+            "img": "img/Evony.jpg",
+            "title": "Evony++"
+        },
+        {
+            "apk": "SquadBusters_v8.1",
+            "category": "games",
+            "img": "img/Squad Busters.webp",
+            "title": "Squad Busters++"
+        },
+        {
+            "apk": "Huntingsniper_v6.1",
+            "category": "games",
+            "img": "img/Hunting sniper.png",
+            "title": "Hunting sniper++"
+        },
+        {
+            "apk": "Hunters_v9.5",
+            "category": "games",
+            "img": "img/Star Wars Hunters.jpg",
+            "title": "Hunters++"
+        },
+        {
+            "apk": "DokkanBattle_v8.1",
+            "category": "games",
+            "img": "img/Dokkan Battle.webp",
+            "title": "Dokkan Battle++"
+        },
+        {
+            "apk": "LastWar_v1.8",
+            "category": "games",
+            "img": "img/Last War.jpg",
+            "title": "Last War++"
+        },
+        {
+            "apk": "OffroadOutlaws_v4.7",
+            "category": "games",
+            "img": "img/Offroad Outlaws.png",
+            "title": "Offroad Outlaws++"
+        },
+        {
+            "apk": "ParchisiStar_v5.3",
+            "category": "games",
+            "img": "img/Parchisi Star.png",
+            "title": "Parchisi Star++"
+        },
+        {
+            "apk": "CSR_2_v5.2",
+            "category": "games",
+            "img": "img/csr racing 2.jpg",
+            "title": "CSR 2++"
+        },
+        {
+            "apk": "Car_Parking_v5.2",
+            "category": "games",
+            "img": "img/car parking.webp",
+            "title": "Car Parking++"
+        },
+        {
+            "apk": "8BallPool_mod_v5.2",
+            "category": "games",
+            "img": "img/8 ball pool.png",
+            "title": "8 Ball Pool MOD MENU"
+        },
+        {
+            "apk": "Among_Us_mod_v8.2",
+            "category": "games",
+            "img": "img/among us.png",
+            "title": "Among Us MOD MENU"
+        },
+        {
+            "apk": "Bowmasters_mod_v4.3",
+            "category": "games",
+            "img": "img/BOWMASTERS.png",
+            "title": "Bowmasters MOD MENU"
+        },
+        {
+            "apk": "COD_Warzone_mod_v1.9",
+            "category": "games",
+            "img": "img/CODWarzone Mobile.webp",
+            "title": "COD Warzone MOD MENU"
+        },
+        {
+            "apk": "DB_LEGENDS_mod_v2.6",
+            "category": "games",
+            "img": "img/DB LEGENDS.png",
+            "title": "DB LEGENDS MOD MENU"
+        },
+        {
+            "apk": "NBA2K24_mod_v8.2",
+            "category": "games",
+            "img": "img/NBA2K24.webp",
+            "title": "NBA2K24 MOD MENU"
+        },
+        {
+            "apk": "PlantsvsZombies_mod_v8.2",
+            "category": "games",
+            "img": "img/Plants vs Zombies.webp",
+            "title": "Plants vs Zombies MOD MENU"
+        },
+        {
+            "apk": "AFK_Arena_v5.2",
+            "category": "games",
+            "img": "img/afkarenalogo.png",
+            "title": "AFK Arena++"
+        },
+        {
+            "apk": "Dragon_Raja_v5.2",
+            "category": "games",
+            "img": "img/Dragon Raja.jpg",
+            "title": "Dragon Raja++"
+        },
+        {
+            "apk": "Family_Farm_Adventure_v5.2",
+            "category": "games",
+            "img": "img/Family Farm Adventure.jpg",
+            "title": "Family Farm Adventure++"
+        },
+        {
+            "apk": "Sonic_Speed_battle_v7.9",
+            "category": "games",
+            "img": "img/sonicforcesspeed.png",
+            "title": "Sonic Forces Speed Battle++"
+        },
+        {
+            "apk": "Township_v7.9",
+            "category": "games",
+            "img": "img/Township.png",
+            "title": "Township++"
+        },
+        {
+            "apk": "DLS24_v7.9",
+            "category": "games",
+            "img": "img/DLS24p.png",
+            "title": "DLS24++"
+        },
+        {
+            "apk": "eFootball_v7.9",
+            "category": "games",
+            "img": "img/eFootballp.png",
+            "title": "eFootball++"
+        },
+        {
+            "apk": "AFK_Journey_v7.9",
+            "category": "games",
+            "img": "img/AFK JOURNEY.png",
+            "title": "AFK Journey++"
+        },
+        {
+            "apk": "Whiteout_Survival_v7.9",
+            "category": "games",
+            "img": "img/Whiteout Survival.jpg",
+            "title": "Whiteout Survival++"
+        },
+        {
+            "apk": "TabouStories_v9.1",
+            "category": "games",
+            "img": "img/tabou.jpg",
+            "title": "Tabou Stories++"
+        },
+        {
+            "apk": "SOULS_v2.1",
+            "category": "games",
+            "img": "img/Souls.png",
+            "title": "SOULS++"
+        },
+        {
+            "apk": "RushRoyale_v6.6",
+            "category": "games",
+            "img": "img/Rush Royale.webp",
+            "title": "Rush Royale++"
+        },
+        {
+            "apk": "WarcraftRumble_v1.3",
+            "category": "games",
+            "img": "img/Warcraft Rumble.png",
+            "title": "Warcraft Rumble++"
+        },
+        {
+            "apk": "LoveSparks_v6.7",
+            "category": "games",
+            "img": "img/love sparks.webp",
+            "title": "Love Sparks++"
+        },
+        {
+            "apk": "Choices_v4.3",
+            "category": "games",
+            "img": "img/choices.webp",
+            "title": "Choices++"
+        },
+        {
+            "apk": "BingoBlitz_v2.8",
+            "category": "games",
+            "img": "img/Bingo Blitz.jpg",
+            "title": "Bingo Blitz++"
+        },
+        {
+            "apk": "Beatstar_v6.3",
+            "category": "games",
+            "img": "img/Beatstar.png",
+            "title": "Beatstar++"
+        },
+        {
+            "apk": "NoLimitDragRacing2_v8.2",
+            "category": "games",
+            "img": "img/No Limit 2.webp",
+            "title": "No Limit Drag Racing 2++"
+        },
+        {
+            "apk": "CookieRunKingdom_v2.6",
+            "category": "games",
+            "img": "img/cookie run kingdom.jpg",
+            "title": "Cookie Run Kingdom++"
+        },
+        {
+            "apk": "DramaBox_v9.4",
+            "category": "games",
+            "img": "img/DramaBox.jpg",
+            "title": "DramaBox++"
+        },
+        {
+            "apk": "MyPerfectHotel_v9.4",
+            "category": "games",
+            "img": "img/My Perfect Hotel.png",
+            "title": "My Perfect Hotel++"
+        },
+        {
+            "apk": "Kiss_Kiss_v7.9",
+            "category": "games",
+            "img": "img/Kiss Kiss.png",
+            "title": "Kiss Kiss++"
+        },
+        {
+            "apk": "Rebel_Racing_v7.9",
+            "category": "games",
+            "img": "img/Rebel Racing.png",
+            "title": "Rebel Racing++"
+        },
+        {
+            "apk": "Royal_Match_v7.9",
+            "category": "games",
+            "img": "img/Royal Match.png",
+            "title": "Royal Match++"
+        },
+        {
+            "apk": "Simcity_Buildit_v8.6",
+            "category": "games",
+            "img": "img/simcitybuildit.jpg",
+            "title": "Simcity Buildit++"
+        },
+        {
+            "apk": "PandaAutoClicker_v4.5.8",
+            "img": "img/PandaClicker.png",
+            "title": "AutoClicker"
+        },
+        {
+            "apk": "Unlocker_v4.5.8",
+            "img": "img/unlocker.jpg",
+            "title": "Unlocker++"
+        },
+        {
+            "apk": "Pornhub_v4.5.8",
+            "img": "img/pornhub.jpg",
+            "title": "Pornhub++"
+        },
+        {
+            "apk": "mGamer_v5.9.1",
+            "img": "img/mgamer.png",
+            "title": "mGamer++"
+        },
+        {
+            "apk": "SoLive_v8.4.8",
+            "img": "img/solive.png",
+            "title": "SoLive++"
+        },
+        {
+            "apk": "StreamKar_v6.8.1",
+            "img": "img/streamkar.png",
+            "title": "StreamKar++"
+        },
+        {
+            "apk": "Boo_v7.5.6",
+            "img": "img/boo app logo.jpg",
+            "title": "Boo++"
+        },
+        {
+            "apk": "Storytel_v3.4.8",
+            "img": "img/storytel.png",
+            "title": "Storytel++"
+        },
+        {
+            "apk": "Joi_v3.4.8",
+            "img": "img/joilogo.png",
+            "title": "Joi++"
+        },
+        {
+            "apk": "Rooter_v6.5.2",
+            "img": "img/rooterlogo.jpg",
+            "title": "Rooter++"
+        },
+        {
+            "apk": "Chaturbate_v9.5.3",
+            "img": "img/chaturbatelogo.png",
+            "title": "Chaturbate++"
+        },
+        {
+            "apk": "BabelNovel_v5.6.1",
+            "img": "img/BabelNovellogo.png",
+            "title": "BabelNovel++"
+        },
+        {
+            "apk": "Messenger_v4.5.8",
+            "img": "img/messenger.png",
+            "title": "Messenger++"
+        },
+        {
+            "apk": "Azar_v4.5.8",
+            "img": "img/azar.png",
+            "title": "Azar++"
+        },
+        {
+            "apk": "Tagged_v4.5.8",
+            "img": "img/tagged.png",
+            "title": "Tagged++"
+        },
+        {
+            "apk": "Radio_v8.6.9",
+            "img": "img/radio.png",
+            "title": "Radio++"
+        },
+        {
+            "apk": "BimmerLink_v8.6.9",
+            "img": "img/bimmerlink.png",
+            "title": "BimmerLink++"
+        },
+        {
+            "apk": "BimmerCode_v9.2.4",
+            "img": "img/bimmercode.png",
+            "title": "BimmerCode++"
+        },
+        {
+            "apk": "Car scanner pro_v6.3.5",
+            "img": "img/Car scanner pro.png",
+            "title": "Car scanner pro++"
+        },
+        {
+            "apk": "Badoo_v6.5.1",
+            "img": "img/badoo.jpg",
+            "title": "Badoo++"
+        },
+        {
+            "apk": "Duolingo_v9.5.1",
+            "img": "img/duolingo.png",
+            "title": "Duolingo++"
+        },
+        {
+            "apk": "FaceApp_PRO_v8.4.2",
+            "img": "img/faceapppro.png",
+            "title": "FaceAppPRO++"
+        },
+        {
+            "apk": "CapCut_Pro_v6.9.4",
+            "img": "img/cupcat.png",
+            "title": "CapCut Pro++"
+        },
+        {
+            "apk": "PhotoRoom_v9.5.1",
+            "img": "img/photoroom.png",
+            "title": "PhotoRoom++"
+        },
+        {
+            "apk": "Webnovel_v9.5.1",
+            "img": "img/webnovellogo.jpg",
+            "title": "Webnovel++"
+        },
+        {
+            "apk": "Hily_v6.7.2",
+            "img": "img/hilylogo.png",
+            "title": "Hily++"
+        },
+        {
+            "apk": "MoboReader_v7.8.5",
+            "img": "img/moboreaderlogo.jpg",
+            "title": "MoboReader++"
+        },
+        {
+            "apk": "GoodNovel_v3.7.9",
+            "img": "img/goodnovellogo.png",
+            "title": "GoodNovel++"
+        },
+        {
+            "apk": "CUPI_CHAT_v6.8.1",
+            "img": "img/cupichatlogo.png",
+            "title": "CUPI CHAT++"
+        },
+        {
+            "apk": "Wattpad_v6.1.7",
+            "img": "img/wattpad.png",
+            "title": "Wattpad++"
+        },
+        {
+            "apk": "Wizz_v9.5.8",
+            "img": "img/Wizz applogo.png",
+            "title": "Wizz++"
+        },
+        {
+            "apk": "SuperLive_v5.4.7",
+            "img": "img/superlivelogo.png",
+            "title": "SuperLive++"
+        },
+        {
+            "apk": "AltStore_v4.5.8",
+            "img": "img/AltStore.png",
+            "title": "AltStore"
+        },
+        {
+            "apk": "Episode_v8.1.3",
+            "category": "games",
+            "img": "img/Episode.png",
+            "title": "Episode++"
+        },
+        {
+            "apk": "Fortnite_v9.3b",
+            "category": "games",
+            "img": "img/Fortnite.png",
+            "title": "Fortnite Mobile"
+        },
+        {
+            "apk": "Head_Ball_2_v2.8b",
+            "category": "games",
+            "img": "img/headball2logo.jpg",
+            "title": "Head Ball 2++"
+        },
+        {
+            "apk": "Genshin_Impact_v5.8b",
+            "category": "games",
+            "img": "img/GenshinImpactlogo.jpg",
+            "title": "Genshin Impact++"
+        },
+        {
+            "apk": "My_Singing_Monsters_v6.2b",
+            "category": "games",
+            "img": "img/MySingingMonsterlogo.jpg",
+            "title": "My Singing Monsters++"
+        },
+        {
+            "apk": "Kings_Choice_v5.6b",
+            "category": "games",
+            "img": "img/KingsChoicelogo.png",
+            "title": "King's Choice++"
+        },
+        {
+            "apk": "Boxing_Star_v9.3b",
+            "category": "games",
+            "img": "img/boxingstarlogo.jpg",
+            "title": "Boxing Star++"
+        },
+        {
+            "apk": "Free_Fire_v9.3b",
+            "category": "games",
+            "img": "img/freefire.png",
+            "title": "Free Fire++"
+        },
+        {
+            "apk": "Mobile_Legends_v9.3b",
+            "category": "games",
+            "img": "img/mobilelegends.png",
+            "title": "Mobile Legends++"
+        },
+        {
+            "apk": "PUBG_MOBILE_v9.3b",
+            "category": "games",
+            "img": "img/pubgmobile.png",
+            "title": "PUBG MOBILE++"
+        },
+        {
+            "apk": "RocketLeagueSideSwipe_v9.3b",
+            "category": "games",
+            "img": "img/RocketLeagueSide.jpg",
+            "title": "Rocket League SideSwipe++"
+        },
+        {
+            "apk": "MasterRoyaleInfinity_v9.3b",
+            "category": "games",
+            "img": "img/MasterRoyale.png",
+            "title": "Master Royale Infinity"
+        },
+        {
+            "apk": "Poppy Playtime++",
+            "category": "games",
+            "img": "img/PoppyPlaytime.png",
+            "title": "Poppy Playtime++"
+        },
+        {
+            "apk": "Delta Emulator_v7.1",
+            "category": "emulat",
+            "img": "img/Delta.png",
+            "title": "Delta"
+        },
+        {
+            "apk": "iNDS_v6.0",
+            "category": "emulat",
+            "img": "img/iNDS.png",
+            "title": "iNDS"
+        },
+        {
+            "apk": "BTC_Miner_v1.4",
+            "img": "img/BTCMiner.png",
+            "title": "BTC Miner"
+        },
+        {
+            "apk": "Unc0ver_v7.1.2",
+            "img": "img/Unc0ver.png",
+            "title": "Unc0ver"
+        },
+        {
+            "apk": "AdBlocker_v4.1",
+            "img": "img/AdBlocker.png",
+            "title": "AdBlocker++"
+        },
+        {
+            "apk": "FNFMobile_v9.0.05",
+            "category": "games",
+            "img": "img/FNFMobile.png",
+            "title": "FNF Mobile"
+        },
+        {
+            "apk": "Zinitevi_3b",
+            "category": "tweaks",
+            "img": "img/Zinitevi.png",
+            "title": "ZiniTevi++"
+        },
+        {
+            "apk": "Pandalive_1b",
+            "category": "tweaks",
+            "img": "img/Pandalive.png",
+            "title": "Pandalive++"
+        },
+        {
+            "apk": "Livu_1.3.1",
+            "category": "tweaks",
+            "img": "img/Livu.png",
+            "title": "Livu++"
+        },
+        {
+            "apk": "Canva_1.3.1",
+            "category": "tweaks",
+            "img": "img/canva.png",
+            "title": "Canva++"
+        },
+        {
+            "apk": "Warpath_1.3.1",
+            "category": "tweaks",
+            "img": "img/Warpath.png",
+            "title": "Warpath++"
+        },
+        {
+            "apk": "War_and_Order_1.3.1",
+            "category": "tweaks",
+            "img": "img/War and Order.png",
+            "title": "War and Order++"
+        },
+        {
+            "apk": "Blooket_1.3.1",
+            "category": "tweaks",
+            "img": "img/blooket.jpg",
+            "title": "Blooket++"
+        },
+        {
+            "apk": "Train_Station_2.3.1",
+            "category": "tweaks",
+            "img": "img/Train Station 2.png",
+            "title": "Train Station 2++"
+        },
+        {
+            "apk": "Top_Drives.3.1",
+            "category": "tweaks",
+            "img": "img/Top Drives.png",
+            "title": "Top Drives++"
+        },
+        {
+            "apk": "Squad_Alpha_3.1",
+            "category": "tweaks",
+            "img": "img/Squad Alpha.png",
+            "title": "Squad Alpha++"
+        },
+        {
+            "apk": "Raise_of_Kingdoms_3.1",
+            "category": "tweaks",
+            "img": "img/Raise of Kingdoms.png",
+            "title": "Raise of Kingdoms++"
+        },
+        {
+            "apk": "Maskgun_3.1",
+            "category": "tweaks",
+            "img": "img/Maskgun.png",
+            "title": "Maskgun++"
+        },
+        {
+            "apk": "Idle_Heroes_3.1",
+            "category": "tweaks",
+            "img": "img/Idle Heroes.png",
+            "title": "Idle Heroes++"
+        },
+        {
+            "apk": "The_Grand_Mafia_3.1",
+            "category": "tweaks",
+            "img": "img/The grand mafia.png",
+            "title": "The Grand Mafia++"
+        },
+        {
+            "apk": "Rocket_Royale_3.1",
+            "category": "tweaks",
+            "img": "img/Rocket Royale.png",
+            "title": "Rocket Royale++"
+        },
+        {
+            "apk": "Dreame_1.3.1",
+            "category": "tweaks",
+            "img": "img/dreame.png",
+            "title": "Dreame++"
+        },
+        {
+            "apk": "Bigo_Live_2.3.6",
+            "category": "tweaks",
+            "img": "img/bigolive.png",
+            "title": "Bigo Live++"
+        },
+        {
+            "apk": "Webtoon_6.8.1",
+            "category": "tweaks",
+            "img": "img/webtoon.png",
+            "title": "Webtoon++"
+        },
+        {
+            "apk": "Yubo_3.5.4",
+            "category": "tweaks",
+            "img": "img/yubologo.jpg",
+            "title": "Yubo++"
+        },
+        {
+            "apk": "Bilibili_Comics_6.4.8",
+            "category": "tweaks",
+            "img": "img/bilibilicomics.png",
+            "title": "Bilibili Comics++"
+        },
+        {
+            "apk": "MeetMe_8.2.3",
+            "category": "tweaks",
+            "img": "img/meetme.png",
+            "title": "MeetMe++"
+        },
+        {
+            "apk": "Tracker_8.2.3",
+            "category": "tweaks",
+            "img": "img/tracker.png",
+            "title": "Tracker++"
+        },
+        {
+            "apk": "Pikashow_x4.3b",
+            "category": "tweaks",
+            "img": "img/PikaShow.png",
+            "title": "Pikashow++"
+        },
+        {
+            "apk": "SwitchEmulator_v2.3.7a",
+            "category": "emulat",
+            "img": "img/SwitchEmulator.png",
+            "title": "Switch Emulator"
+        },
+        {
+            "apk": "ApexLegends_v5.0",
+            "category": "games",
+            "img": "img/ApexLegends.png",
+            "title": "Apex Legends"
+        },
+        {
+            "apk": "NuCarnival_v4.1b",
+            "category": "games",
+            "img": "img/NUCarnival.png",
+            "title": "Nu Carnival++"
+        },
+        {
+            "apk": "Cuphead_v4.1b",
+            "category": "games",
+            "img": "img/CupHead.png",
+            "title": "Cuphead"
+        },
+        {
+            "apk": "CarXStreet_v5.0",
+            "category": "games",
+            "img": "img/CarX.png",
+            "title": "CarX Street++"
+        },
+        {
+            "apk": "Valorant_v8.5.9b",
+            "category": "games",
+            "img": "img/Valorant.png",
+            "title": "Valorant"
+        }
+    ]
+}
