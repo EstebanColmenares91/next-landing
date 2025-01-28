@@ -19,7 +19,7 @@ export default async function Home()  {
         <DarkModeToggle />
       </header>
       <main className="flex-grow p-4 pb-20">
-        <AppsList initialProducts={[]} />
+        <AppsList initialProducts={data} />
       </main>
     </div>
   </ThemeProvider>
