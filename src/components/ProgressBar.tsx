@@ -3,6 +3,7 @@
 import React, { useState, useEffect } from 'react';
 import Spinner from './Spinner';
 import { useRouter } from 'next/navigation';
+import { enlaceRedirigido } from '@/lib/title';
 
 
 const ProgressBar: React.FC = () => {
@@ -17,7 +18,7 @@ const ProgressBar: React.FC = () => {
           clearInterval(timer);
           setIsComplete(true);
           setTimeout(() => {
-            router.push('https://www.youtube.com');
+            router.push(enlaceRedirigido);
           }, 1000); // Wait 1 second before redirecting
           return 100;
         }
