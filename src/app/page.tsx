@@ -1,12 +1,13 @@
 import AppsList from "@/components/AppsList";
-import { getProductsFilteredByTitle } from "@/service";
+// import { getProductsFilteredByTitle } from "@/service";
 import { ThemeProvider } from "./provider/ThemeProvider";
 import { DarkModeToggle } from "@/components/DarkMode";
 import { tituloPagina } from "@/lib/title";
 
-export default async function Home()  {
-  const {data} = await getProductsFilteredByTitle()
+import data from '../lib/data.json'
 
+
+export default async function Home()  {
   if (!data) {
     return <div>Loading...</div>
   }
@@ -19,7 +20,7 @@ export default async function Home()  {
         <DarkModeToggle />
       </header>
       <main className="flex-grow p-4 pb-20">
-        <AppsList initialProducts={data} />
+        <AppsList initialProducts={data.data} />
       </main>
     </div>
   </ThemeProvider>
